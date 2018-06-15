@@ -1,0 +1,1 @@
+to see the screenshot dimensions fed to the program, just run python quickgrab.py
